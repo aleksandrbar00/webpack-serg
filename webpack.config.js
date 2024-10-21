@@ -23,4 +23,6 @@ module.exports = {
       },
     ],
   },
+  externalsType: 'commonjs',
+  externals: {},
 };
